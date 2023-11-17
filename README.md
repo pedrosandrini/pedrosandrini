@@ -1,84 +1,126 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Hello, Devs!! 👋
-### O meu nome é Israel, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### O meu nome é Pedro, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Porto Velho/RO, Brasil
+- 🔰  Sou de Marília/SP, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
-- 🧠 Estudante de Desenvolvimento de Software na Cubos Academy
-- 🏦 Atualmente trabalho como Analista de Estratégia e Inovação na UzziPay, uma Instituição de Pagamentos com Sede em Porto Velho/RO e São Paulo/SP
+- 🧠 Graduando em Ciência da Computação pelo UNIVEM - Centro Universitário Eurípides de Marília.
+- 🏦 Atualmente, trabalho como desenvolvedor Java na Persys Tecnologia.
 
 ##
 
-#### Estou aprendendo sobre:
+#### Tecnologias que possuo domínio:
 <div>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css"/>
-</a>
-<a href="https://sass-lang.com">
-  <img src="https://skillicons.dev/icons?i=sass"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js"/>
-</a>
-<a href="https://www.typescriptlang.org/pt/">
-  <img src="https://skillicons.dev/icons?i=ts"/>
-</a>
-<a href="https://pt-br.react.dev">
-  <img src="https://skillicons.dev/icons?i=react"/>
-</a>
-<a href="https://npmjs.com">
-  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
-</a>
-<a href="https://nodejs.org">
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
-</a>
-<a href="https://www.postgresql.org">
-  <img src="https://skillicons.dev/icons?i=postgres"/>
-</a>
-</div>
+  <a href="https://www.mysql.com/" >
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+  </a>
+  <a href="https://dev.java/" >
+    <img src="https://skillicons.dev/icons?i=python"/>
+  </a>
+  
+  <a href="https://dev.java/" >
+    <img src="https://skillicons.dev/icons?i=java"/>
+  </a>
+  
+  <a href="https://go.dev/" >
+    <img src="https://skillicons.dev/icons?i=go"/>
+  </a>
+  
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" >
+    <img src="https://skillicons.dev/icons?i=flask"/>
+  </a>
+  
+  <a href="https://www.djangoproject.com/" >
+    <img src="https://skillicons.dev/icons?i=django"/>
+  </a>
 
+  
+  <a href="https://azure.microsoft.com/pt-br/products/devops/" >
+    <img src="https://skillicons.dev/icons?i=azure"/>
+  </a>
+  
+  <a href="https://www.linux.org/" >
+    <img src="https://skillicons.dev/icons?i=linux"/>
+  </a>
+  
+  <a href="https://www.docker.com/" >
+    <img src="https://skillicons.dev/icons?i=docker"/>
+  </a>
+  
+  <a href="https://git-scm.com/" >
+    <img src="https://skillicons.dev/icons?i=git"/>
+  </a>
+
+  
+
+##
+
+#### Tecnologias que estou estudando:
+<div>
+  <a href="https://www.postgresql.org/" >
+    <img src="https://skillicons.dev/icons?i=postgres"/>
+  </a>
+ 
+  <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" >
+    <img src="https://skillicons.dev/icons?i=c"/>
+  </a>
+  
+  <a href="https://www.php.net/" >
+    <img src="https://skillicons.dev/icons?i=php"/>
+  </a>
+  
+  <a href="https://www.php.net/" >
+    <img src="https://skillicons.dev/icons?i=laravel"/>
+  </a>
+
+  <a href="https://www.php.net/" >
+    <img src="https://skillicons.dev/icons?i=dart"/>
+  </a>
+
+  <a href="https://www.php.net/" >
+    <img src="https://skillicons.dev/icons?i=flutter"/>
+  </a>
+  
+  <a href="https://aws.amazon.com/pt/free/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5p9UfN-GDFcotgZuLXhbM2Nphgjzf4DD_cf44mloSF-q7ryiGCOui0hoCk68QAvD_BwE&trk=2ee11bb2-bc40-4546-9852-2c4ad8e8f646&sc_channel=ps&ef_id=CjwKCAiAu9yqBhBmEiwAHTx5p9UfN-GDFcotgZuLXhbM2Nphgjzf4DD_cf44mloSF-q7ryiGCOui0hoCk68QAvD_BwE:G:s&s_kwcid=AL!4422!3!561843094929!e!!g!!aws!15278604629!130587771740&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" >
+    <img src="https://skillicons.dev/icons?i=aws"/>
+  </a>
+ 
+  <a href="https://www.ansible.com/" >
+    <img src="https://skillicons.dev/icons?i=ansible"/>
+  </a>
+
+  <a href="https://kafka.apache.org/" >
+    <img src="https://skillicons.dev/icons?i=kafka"/>
+  </a>
+  
+  
 ##
 
 #### Ferramentas que uso:
 <div>
-<a href="https://code.visualstudio.com" >
-  <img src="https://skillicons.dev/icons?i=vscode"/>
-</a>
-<a href="https://insomnia.rest">
-  <img src="https://i.postimg.cc/MHch4m7T/insomnia.png" width="48" height="48"/>
-</a>
-<a href="https://www.postman.com">
-  <img src="https://i.postimg.cc/QNyBTNVk/postman.png" width="48" height="48"/>
-</a>
-<a href="https://www.beekeeperstudio.io">
-  <img src="https://i.postimg.cc/j5sT81d4/beekeeperstudio.png" width="48" height="48"/>
-</a>
-<a href="https://github.com/pt" >
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-<a href="https://git-scm.com" >
-  <img src="https://skillicons.dev/icons?i=git"/>
-</a>
-<a href="https://vercel.com" >
-  <img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-<a href="https://azure.microsoft.com/pt-br/products/devops/" >
-  <img src="https://skillicons.dev/icons?i=azure"/>
-</a>
-<a href="https://www.figma.com" >
-  <img src="https://skillicons.dev/icons?i=figma"/>
-</a>
-<a href="https://www.adobe.com/br/products/illustrator.html" >
-  <img src="https://skillicons.dev/icons?i=ai"/>
-</a>
-<a href="https://www.adobe.com/br/products/photoshop.html" >
-  <img src="https://skillicons.dev/icons?i=ps"/>
-</a>
-</div>
+  <a href="https://www.vim.org/" >
+    <img src="https://skillicons.dev/icons?i=vim"/>
+  </a>
+  
+  <a href="https://code.visualstudio.com/" >
+    <img src="https://skillicons.dev/icons?i=vscode"/>
+  </a>
+  
+  <a href="https://developer.android.com/studio" >
+    <img src="https://skillicons.dev/icons?i=androidstudio"/>
+  </a>
+  
+  <a href="https://www.postman.com/" >
+    <img src="https://skillicons.dev/icons?i=postman"/>
+  </a>
+  
+  <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" >
+    <img src="https://skillicons.dev/icons?i=bash"/>
+  </a>
+
+  
+  
 
 ##
 
@@ -108,12 +150,13 @@ Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Efici
 
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/fullcycle-logo.svg"/>](https://curso.fullcycle.com.br/curso-fullcycle/)
 
-**Software Developer** \
-[**Cubos Academy**](https://cubos.academy/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `SQL`, `PostgreSQL`
+**Software Architecture** \
+[**Full Cycle**](https://curso.fullcycle.com.br/curso-fullcycle/) \
+Linguagens & Tecnologias - Front-end: `React`
+<br/>Linguagens & Tecnologias - Back-end: `Java`, `.NET`, `PHP`, `Go (Golang)`, `TypeScript`, `Python`
+<br/>Tecnologias - DevOps: `Docker`, `GitHub`, `Kubernetes`, `Observabilidade`, `Kong`, `Ansible`, `GitFlow`, `CI/CD`, `SonarQube`, `Istio`, `OpenTelemetry`, `Terraform`, `GitOps`
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
@@ -121,7 +164,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) 
 
 #### Estatísticas:
 <div>
-<a href="https://github.com/israelltulio">
+<a href="https://github.com/pedrosandrini">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosandrini&layout=compact&langs_count=7&theme=radical"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=pedrosandrini&show_icons=true&include_all_commits=true&theme=radical"/>
 <img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=pedrosandrini&amp;theme=radical">
