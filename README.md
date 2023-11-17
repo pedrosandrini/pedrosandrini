@@ -126,8 +126,8 @@
 
 #### Como entrar em contato comigo:
 <div>
-<a href="https://www.linkedin.com/in/israelltulio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
-<a href ="mailto:israelltulio@icloud.com"><img src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-sandrini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
+<!-- <a href ="mailto:sandrini.pedro@outlook.com"><img src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=outlook" target="_blank"></a> -->
 </div>
 
 ##
@@ -136,12 +136,6 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://www.uzzipay.com/)
-
-**Strategy and Innovation Analyst** \
-[**UzziPay**](https://www.uzzipay.com/) • Full-time \
-Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
-<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
 
 
 ##
@@ -158,7 +152,7 @@ Linguagens & Tecnologias - Front-end: `React`
 <br/>Linguagens & Tecnologias - Back-end: `Java`, `.NET`, `PHP`, `Go (Golang)`, `TypeScript`, `Python`
 <br/>Tecnologias - DevOps: `Docker`, `GitHub`, `Kubernetes`, `Observabilidade`, `Kong`, `Ansible`, `GitFlow`, `CI/CD`, `SonarQube`, `Istio`, `OpenTelemetry`, `Terraform`, `GitOps`
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/pedro-sandrini/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
 
