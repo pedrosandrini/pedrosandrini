@@ -6,7 +6,7 @@
 - 🔰  Sou de Marília/SP, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
 - 🧠 Graduando em Ciência da Computação pelo UNIVEM - Centro Universitário Eurípides de Marília.
-- 🏦 Atualmente, trabalho como desenvolvedor Java na Persys Tecnologia.
+
 
 ##
 
