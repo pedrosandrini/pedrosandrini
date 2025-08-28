@@ -144,15 +144,15 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/fullcycle-logo.svg"/>](https://curso.fullcycle.com.br/curso-fullcycle/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/logo-fc.svg"/>](https://curso.fullcycle.com.br/curso-fullcycle/)
 
-**Software Architecture** \
+**MBA - Arquitetura Full Cycle** \
 [**Full Cycle**](https://curso.fullcycle.com.br/curso-fullcycle/) \
 Linguagens & Tecnologias - Front-end: `React`
 <br/>Linguagens & Tecnologias - Back-end: `Java`, `.NET`, `PHP`, `Go (Golang)`, `TypeScript`, `Python`
 <br/>Tecnologias - DevOps: `Docker`, `GitHub`, `Kubernetes`, `Observabilidade`, `Kong`, `Ansible`, `GitFlow`, `CI/CD`, `SonarQube`, `Istio`, `OpenTelemetry`, `Terraform`, `GitOps`
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/pedro-sandrini/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/sandrini-pedro/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
 
