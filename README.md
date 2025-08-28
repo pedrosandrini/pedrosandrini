@@ -140,13 +140,11 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 ##
 
-#### Formação Acadêmica:
-
-Na visão geral abaixo você encontrará minha formação acadêmica:
+### Formação Acadêmica:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/logo-fc.svg"/>](https://curso.fullcycle.com.br/curso-fullcycle/)
-**FCTECH - Faculdade Full Cycle de tecnologia** \
-[**MBA - Arquitetura Full Cycle**](https://mba.fullcycle.com.br/mba) \
+#### **FCTECH - Faculdade Full Cycle de tecnologia** \
+#### [**MBA - Arquitetura Full Cycle**](https://mba.fullcycle.com.br/mba)
 
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/sandrini-pedro/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
