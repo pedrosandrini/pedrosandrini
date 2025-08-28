@@ -143,7 +143,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 ### Formação Acadêmica:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/logo-fc.svg"/>](https://curso.fullcycle.com.br/curso-fullcycle/)
-#### **FCTECH - Faculdade Full Cycle de tecnologia** \
+#### **FCTECH - Faculdade Full Cycle de tecnologia** 
 #### [**MBA - Arquitetura Full Cycle**](https://mba.fullcycle.com.br/mba)
 
 
