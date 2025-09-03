@@ -19,14 +19,14 @@ Sou um desenvolvedor focado em **backend**, com forte interesse em sistemas **we
 Atualmente estou focado em:
 - 👨‍💻 **TypeScript** e **Go** para desenvolvimento backend
 - 🐳 **Docker** e ☸️ **Kubernetes** para infraestrutura e orquestração de serviços
-- 🔁 Boas práticas de **versionamento**, **automação** e **entrega contínua**
+- 🔁 Boas práticas de **Desenvolvimento de software**, **versionamento**, **automação** e **entrega contínua**
 
 ---
 
 ## 🧠 Diferenciais
 
 - 👨‍🏫 Atuei como **professor voluntário** em minha universidade, compartilhando conhecimento com a comunidade acadêmica.
-- 🤝 Faço parte de **grupos de estudo e comunidades locais**, promovendo o desenvolvimento técnico coletivo.
+- 🤝 Faço parte de **grupos de estudo e comunidades remotas/locais**, promovendo o desenvolvimento técnico coletivo.
 
 Se quiser, posso te contar mais sobre esses projetos voluntários e iniciativas comunitárias!
 
@@ -83,6 +83,12 @@ Atualmente atuo no desenvolvimento de um sistema voltado para **departamento pes
 #### **FCTECH - Faculdade Full Cycle de Tecnologia**  
 MBA em Arquitetura Full Cycle  
 [🔗 Ver curso](https://mba.fullcycle.com.br/mba)
+
+[<img align="left" height="94px" width="94px" alt="Univem" src="https://www.univem.edu.br/img/site/logo.png"/>](https://www.univem.edu.br/)
+
+#### **UNIVEM - Centro Universitário Eurípides de Marília**  
+Bacharelado em Ciências da Computação  
+[🔗 Ver curso](https://www.univem.edu.br/cursos/ciencia-da-computacao)
 
 ---
 
